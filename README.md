@@ -32,14 +32,11 @@
 ---
 
 ## 👥 Team
-<table>
-  <tr>
-    <td>  https://github.com/yaimnot23 </td>
-    <td>  https://github.com/estelle21kr  </td>
-    <td>  https://github.com/rlarhkdwn </td>
-    <td>  https://github.com/sjeongwoon  </td>
-  </tr>
-</table>
+| | | | |
+|:--:|:--:|:--:|:--:|
+| <a href="https://github.com/yaimnot23"><img src="https://github.com/yaimnot23.png?size=160" width="120"/></a><br/>**yaimnot23**<br/>데이터, 프론트엔드 | <a href="https://github.com/estelle21kr"><img src="https://github.com/estelle21kr.png?size=160" width="120"/></a><br/>**estelle21kr**<br/>백엔드, 보안 | <a href="https://github.com/rlarhkdwn"><img src="https://github.com/rlarhkdwn.png?size=160" width="120"/></a><br/>**rlarhkdwn**<br/>백엔드 | <a href="https://github.com/sjeongwoon"><img src="https://github.com/sjeongwoon.png?size=160" width="120"/></a><br/>**sjeongwoon**<br/>백엔드 |
+
+
 ---
 
 📌 *본 Organization은 학습 및 포트폴리오 목적의 프로젝트를 포함합니다.*
