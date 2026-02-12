@@ -32,10 +32,14 @@
 ---
 
 ## 👥 Team
-- Backend / API
-- Frontend / UI
-- Data / Analysis
-
+<table>
+  <tr>
+    <td>  https://github.com/yaimnot23 </td>
+    <td>  https://github.com/estelle21kr  </td>
+    <td>  https://github.com/rlarhkdwn </td>
+    <td>  https://github.com/sjeongwoon  </td>
+  </tr>
+</table>
 ---
 
 📌 *본 Organization은 학습 및 포트폴리오 목적의 프로젝트를 포함합니다.*
